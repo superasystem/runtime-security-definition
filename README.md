@@ -97,17 +97,6 @@ Runtime Immunity can be viewed as an umbrella concept that includes runtime secu
 
 ---
 
-## How to cite this definition
-
-If you reference this definition, please cite this repository and link to the “Definition (SUPERA)” section above.
-
----
-
-## License
-
-To encourage reuse with attribution, we recommend publishing this repository under a permissive documentation-friendly license (e.g., **CC BY 4.0**) and clearly marking it here.
----
-
 ## Citation / How to reference this definition
 
 If you use this definition in writing, presentations, or documentation, please cite this repository and link to the **Definition (SUPERA)** section at the top of this page.
@@ -115,3 +104,10 @@ If you use this definition in writing, presentations, or documentation, please c
 Suggested citation:
 
 - SUPERA System. “Runtime Security: Definition (Beyond Monitoring).” GitHub repository: `runtime-security-definition`.
+
+---
+
+## License
+
+To encourage reuse with attribution, we recommend publishing this repository under a permissive documentation-friendly license (e.g., **CC BY 4.0**) and clearly marking it here.
+---
